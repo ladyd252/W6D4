@@ -1,0 +1,14 @@
+.zoomable{
+  width: 200px;
+  position: relative;
+  /*margin: 0 auto;*/
+}
+
+.zoomable > img{
+  width: 100%;
+}
+
+.focus-box {
+  position: absolute;
+  border: thin solid #fff;
+}
